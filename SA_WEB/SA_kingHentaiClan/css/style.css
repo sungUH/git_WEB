@@ -2,7 +2,9 @@
 @import url(reset.css);
 
 * {box-sizing: border-box;}
-body {background-color: rgba(2, 2, 2, 0.705);}
+body {
+    background-image: url(/SA_WEB/SA_kingHentaiClan/images/font_background.jpg);
+}
 nav div {
     color: aliceblue;
 }
